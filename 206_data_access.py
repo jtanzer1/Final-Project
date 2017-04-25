@@ -14,8 +14,6 @@
 
 
 
-Jamie Tanzer
-Final Project1222
 
 ######### END INSTRUCTIONS #########
 
