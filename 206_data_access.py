@@ -12,6 +12,11 @@
 # - Code that creates a database file and tables as your project plan explains, such that your program can be run over and over again without error and without duplicate rows in your tables.
 # - At least enough code to load data into 1 of your dtabase tables (this should accord with your instructions/tests)
 
+
+
+Jamie Tanzer
+Final Project1
+
 ######### END INSTRUCTIONS #########
 
 # Put all import statements you need here.
